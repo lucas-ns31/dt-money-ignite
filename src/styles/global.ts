@@ -50,7 +50,7 @@ export const GlobalStyle = createGlobalStyle`
         cursor: pointer;
     }
 
-    [disbaled] {
+    [disabled] {
         opacity: 0.6;
         cursor: not-allowed;
     }
